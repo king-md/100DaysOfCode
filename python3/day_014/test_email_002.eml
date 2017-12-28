@@ -1,0 +1,21 @@
+MIME-Version: 1.0
+Received: by 10.103.31.199 with HTTP; Sat, 16 Dec 2017 16:45:26 -0800 (PST)
+Date: Sat, 16 Dec 2017 16:45:26 -0800
+Delivered-To: gizmomdk@gmail.com
+Message-ID: <CAAEnYfyG7-zh5koeMiLOtWH8nVwOcBP5Evx9m55LZpU6iYE2XA@mail.gmail.com>
+Subject: Test Email 02
+From: Michael King <gizmomdk@gmail.com>
+To: gizmo.mdk+tech@gmail.com
+Content-Type: multipart/alternative; boundary="089e082b9ca8b3811005607e8c7d"
+
+--089e082b9ca8b3811005607e8c7d
+Content-Type: text/plain; charset="UTF-8"
+
+Test Email Body 02
+
+--089e082b9ca8b3811005607e8c7d
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Test Email Body 02<br></div>
+
+--089e082b9ca8b3811005607e8c7d--
