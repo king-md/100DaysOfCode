@@ -1,7 +1,7 @@
 # 100 Days Of Code - A Challenge to Write some Code for 100 Days
 
 ************************************************************************************
-* NOTE: I have retired this repo.  Take a look at the 100DaysOfCodeReboot instead. *
+NOTE: I have retired this repo.  Take a look at the 100DaysOfCodeReboot instead.
 ************************************************************************************
 
 I created this project to help me with learning any programming language.
