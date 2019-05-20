@@ -1,5 +1,9 @@
 # 100 Days Of Code - A Challenge to Write some Code for 100 Days
 
+************************************************************************************
+* NOTE: I have retired this repo.  Take a look at the 100DaysOfCodeReboot instead. *
+************************************************************************************
+
 I created this project to help me with learning any programming language.
 I stole the idea from [PyBites 100 Days of Code Challenge](https://github.com/pybites/100DaysOfCode).
 While the PyBites version is designed for 100 consecutive days, my own 100 days here will be 100 individual days, though not consecutive.
